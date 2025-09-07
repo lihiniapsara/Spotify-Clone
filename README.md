@@ -1,4 +1,4 @@
-මේක copy–paste කරලා `README.md` ටිකට දාන්න 👇
+
 
 ````markdown
 # 🎶 Spotify Clone
