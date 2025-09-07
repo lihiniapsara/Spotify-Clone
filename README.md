@@ -40,64 +40,25 @@ A **pixel-perfect Spotify clone** built with **React** and **Tailwind CSS**, fea
 
 ---
 
+## 📸 Screenshots
+
+### Home Screen
+![Home Screen](./screenshots/Screenshot%202025-09-07%20152850.png), 
+![Home Screen](./screenshots/Screenshot%202025-09-07%20152859.png)
+
+### Search Screen
+![Search Screen](./screenshots/Screenshot%202025-09-07%20152918.png)
+
+### Library Screen
+![Library Screen](./screenshots/Screenshot%202025-09-07%20152934.png)
+
+
+
+---
+
 ## ⚡ Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/lihiniapsara/Spotify-Clone.git
    cd Spotify-Clone
-````
-
-2. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-
-   ```bash
-   npm start
-   ```
-
-4. Open in browser → `http://localhost:3000`
-
----
-
-## 📊 Mock Data
-
-This clone uses **mock data** for:
-
-* Playlists & music library
-* Trending songs & artists
-* Search results & categories
-* Player state (progress, current track)
-
----
-
-## 🔑 Key Components
-
-* **SpotifyContext** → Manages player state, playlists, search, navigation
-* **Player Component** → Displays current track + full player controls
-* **Navigation** → Sidebar (Home, Search, Library) & TopBar (search, profile)
-
----
-
-## 📝 Development Notes
-
-⚠️ This is a **frontend-only clone**. To make it production-ready you’d need:
-
-* A backend API for songs & playlists
-* Authentication system
-* Database for user data
-* Real audio playback integration
-
----
-
-## 📜 License
-
-This project is for **educational purposes only**.
-Spotify is a trademark of **Spotify AB**.
-
-```
-```
