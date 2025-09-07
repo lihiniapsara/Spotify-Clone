@@ -1,6 +1,4 @@
 
-
-````markdown
 # 🎶 Spotify Clone
 
 A **pixel-perfect Spotify clone** built with **React** and **Tailwind CSS**, featuring a modern UI and interactive music streaming interface.
@@ -53,7 +51,6 @@ A **pixel-perfect Spotify clone** built with **React** and **Tailwind CSS**, fea
 ![Library Screen](./screenshots/library.png)
 
 
-
 ---
 
 ## ⚡ Installation
@@ -62,4 +59,6 @@ A **pixel-perfect Spotify clone** built with **React** and **Tailwind CSS**, fea
    ```bash
    git clone https://github.com/lihiniapsara/Spotify-Clone.git
    cd Spotify-Clone
+
+   
 
