@@ -43,14 +43,14 @@ A **pixel-perfect Spotify clone** built with **React** and **Tailwind CSS**, fea
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](./screenshots/Screenshot%202025-09-07%20152850.png), 
-![Home Screen](./screenshots/Screenshot%202025-09-07%20152859.png)
+![Home Screen](./screenshots/home.png), 
+![Home Screen](./screenshots/home1.png)
 
 ### Search Screen
-![Search Screen](./screenshots/Screenshot%202025-09-07%20152918.png)
+![Search Screen](./screenshots/search.png)
 
 ### Library Screen
-![Library Screen](./screenshots/Screenshot%202025-09-07%20152934.png)
+![Library Screen](./screenshots/library.png)
 
 
 
@@ -62,3 +62,4 @@ A **pixel-perfect Spotify clone** built with **React** and **Tailwind CSS**, fea
    ```bash
    git clone https://github.com/lihiniapsara/Spotify-Clone.git
    cd Spotify-Clone
+
